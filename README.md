@@ -20,7 +20,6 @@
 - ☕ I build **REST APIs and backend services** in Java and Spring Boot with clean layered architecture, validation and a real database behind them.
 - 🎓 Currently studying **Advanced Artificial Intelligence** at **Newcastle University**.
 - ⚡ My background is in **Electrical & Electronics Engineering**, so I like knowing how things work down to the hardware.
-- 🧩 I practise algorithms regularly on [NeetCode](https://github.com/Lekeboi/neetcode-submissions).
 - 📫 Open to **AI/ML and backend engineering roles**, remote or on-site. The fastest way to reach me is [email](mailto:lekeoduoyee@gmail.com).
 
 ## 🎓 Education
