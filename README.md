@@ -8,6 +8,7 @@
 <p align="center">
   <a href="mailto:lekeoduoyee@gmail.com"><img src="https://img.shields.io/badge/Email-lekeoduoyee%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://huggingface.co/Lekeboi"><img src="https://img.shields.io/badge/Hugging%20Face-Lekeboi-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://www.linkedin.com/in/erioluwa-leke-oduoye-7b2043218/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=Lekeboi&style=flat&color=blueviolet&label=Profile+views" alt="Profile views"/>
 </p>
 
