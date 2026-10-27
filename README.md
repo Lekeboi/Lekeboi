@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erioluwa Leke-oduoye 👋🏾</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Backend Engineer (Java / Spring Boot) · Electrical & Electronics Engineering</b><br/>
+  <b>AI/ML Engineer · Backend Engineer (Java / Spring Boot) · Advanced AI @ Newcastle University</b><br/>
   I build and measure LLM systems, and I write the backend services that put them in front of users.
 </p>
 
@@ -18,20 +18,27 @@
 
 - 🤖 I work on **LLM inference and evaluation**: what a model costs to serve, how fast it is, and what you lose when you quantise it.
 - ☕ I build **REST APIs and backend services** in Java and Spring Boot with clean layered architecture, validation and a real database behind them.
+- 🎓 Currently studying **Advanced Artificial Intelligence** at **Newcastle University**.
 - ⚡ My background is in **Electrical & Electronics Engineering**, so I like knowing how things work down to the hardware.
 - 🧩 I practise algorithms regularly on [NeetCode](https://github.com/Lekeboi/neetcode-submissions).
 - 📫 Open to **AI/ML and backend engineering roles**, remote or on-site. The fastest way to reach me is [email](mailto:lekeoduoyee@gmail.com).
 
-## 💼 Where I've worked
+## 🎓 Education
 
-| | Company | What I build there |
+| | Institution | Programme |
 | :---: | --- | --- |
-| <img src="https://github.com/FBIS-Tech.png?size=60" width="36" alt="FBIS Tech"/> | [**FBIS Technology**](https://github.com/FBIS-Tech) | IoT and connectivity products: a **smart-meter backend** (Python), a router service, device-locking firmware for routers (C / Shell) and an Android browser (Kotlin) |
-| <img src="https://github.com/CareConnect-Plus.png?size=60" width="36" alt="CareConnect Plus"/> | [**CareConnect Plus**](https://github.com/CareConnect-Plus) | A care-services platform: Java microservices for customers, admin, dispatch and payments, plus Flutter mobile apps for customers and carers |
+| <img src="https://github.com/newcastleuniversity-computing.png?size=60" width="36" alt="Newcastle University"/> | **Newcastle University** | Advanced Artificial Intelligence *(current)* |
+
+## 💼 Where I've worked: Backend Engineer
+
+| | Company | Backend work |
+| :---: | --- | --- |
+| <img src="https://github.com/FBIS-Tech.png?size=60" width="36" alt="FBIS Tech"/> | [**FBIS Technology**](https://github.com/FBIS-Tech) | Backend for IoT and connectivity products, including a **smart-meter backend** and a router service (Python) |
+| <img src="https://github.com/CareConnect-Plus.png?size=60" width="36" alt="CareConnect Plus"/> | [**CareConnect Plus**](https://github.com/CareConnect-Plus) | Java microservices for a care-services platform: customer, admin, dispatch and payment services |
 | <img src="https://github.com/Aante-Group.png?size=60" width="36" alt="Aante Group"/> | [**Aante Group · School Buddy**](https://github.com/Aante-Group) | The **School Buddy** backend in Java / Spring Boot |
-| <img src="https://github.com/Falcon-Solutions-Tech.png?size=60" width="36" alt="Falcon Solutions"/> | [**Falcon Solutions Tech**](https://github.com/Falcon-Solutions-Tech) | Payments microservices in Java: payouts, notifications, admin API and dashboard, plus the TypeScript web client |
-| <img src="https://github.com/TicketDanfo.png?size=60" width="36" alt="Ticket Danfo"/> | [**Ticket Danfo**](https://github.com/TicketDanfo) | Ticket resale platform: the main, merchant and admin web apps (TypeScript) |
-| <img src="https://github.com/admin-chargehub.png?size=60" width="36" alt="ChargeHub"/> | [**ChargeHub**](https://github.com/admin-chargehub) | EV-charging platform spanning a Python backend, a TypeScript frontend and the stations' embedded C++ firmware |
+| <img src="https://github.com/Falcon-Solutions-Tech.png?size=60" width="36" alt="Falcon Solutions"/> | [**Falcon Solutions Tech**](https://github.com/Falcon-Solutions-Tech) | Payments microservices in Java: payouts, notifications, admin API and dashboard |
+| <img src="https://github.com/TicketDanfo.png?size=60" width="36" alt="Ticket Danfo"/> | [**Ticket Danfo**](https://github.com/TicketDanfo) | Backend for a ticket resale platform |
+| <img src="https://github.com/admin-chargehub.png?size=60" width="36" alt="ChargeHub"/> | [**ChargeHub**](https://github.com/admin-chargehub) | Python backend for an EV-charging platform: station communication, telemetry and shared interface contracts |
 
 ## 🚀 Featured project
 
@@ -51,14 +58,6 @@ A CLI that benchmarks **any OpenAI-compatible endpoint** (tested with vLLM, llam
 uvx frugal-llm bench --url http://localhost:11434/v1 --model qwen2.5:0.5b
 ```
 
-## 🛠️ Other projects
-
-| Project | Stack | Description |
-| --- | --- | --- |
-| [notification-service](https://github.com/Lekeboi/notification-service) | Java · Spring Boot | REST API that stores notification requests and dispatches them through a provider that simulates real network delay and failures |
-| [Expense-Tracker](https://github.com/Lekeboi/Expense-Tracker) | JavaFX · Spring Boot · MySQL | Full-stack desktop app with authentication, categorised expenses and live updates over a REST API |
-| [Todo_App](https://github.com/Lekeboi/Todo_App) | Python · Django | Task manager built with Django class-based views |
-
 ## 🧰 Tech stack
 
 **AI / ML & inference**<br/>
@@ -67,9 +66,6 @@ uvx frugal-llm bench --url http://localhost:11434/v1 --model qwen2.5:0.5b
 
 **Backend**<br/>
 <img src="https://skillicons.dev/icons?i=java,spring,django,mysql,postgres" alt="Java, Spring, Django, MySQL, PostgreSQL"/>
-
-**Frontend, mobile & embedded**<br/>
-<img src="https://skillicons.dev/icons?i=ts,react,kotlin,flutter,c,cpp" alt="TypeScript, React, Kotlin, Flutter, C, C++"/>
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,maven" alt="Git, GitHub, Docker, Linux, Bash, Maven"/>
